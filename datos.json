@@ -1,0 +1,128 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "pantalon",
+    "inventarioProducto": 7,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "camisa",
+    "inventarioProducto": 6,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "medias",
+    "inventarioProducto": 15,
+    "precioProducto": 1000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "chaqueta",
+    "inventarioProducto": 1,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "zapatos",
+    "inventarioProducto": 18,
+    "precioProducto": 75000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "tenis",
+    "inventarioProducto": 7,
+    "precioProducto": 65500
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "celular",
+    "inventarioProducto": 8,
+    "precioProducto": 65500
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "corbata",
+    "inventarioProducto": 8,
+    "precioProducto": "20000"
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "medias",
+    "inventarioProducto": 14,
+    "precioProducto": "15000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "zapatos",
+    "inventarioProducto": 19,
+    "precioProducto": "15000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "corbata",
+    "inventarioProducto": 5,
+    "precioProducto": "20000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "corbata",
+    "inventarioProducto": 5,
+    "precioProducto": "15000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "pantalon",
+    "inventarioProducto": 16,
+    "precioProducto": "10000"
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "jersey",
+    "inventarioProducto": 5,
+    "precioProducto": "10000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "pantalon",
+    "inventarioProducto": 3,
+    "precioProducto": "20000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "pantalon",
+    "inventarioProducto": 17,
+    "precioProducto": "60000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "camisa",
+    "inventarioProducto": 13,
+    "precioProducto": "20000"
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "vestido",
+    "inventarioProducto": 5,
+    "precioProducto": "40000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "pantalon",
+    "inventarioProducto": 16,
+    "precioProducto": "60000"
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "camisa",
+    "inventarioProducto": 6,
+    "precioProducto": "10000"
+  },
+  {
+    "codigoProducto": "16",
+    "nombreProducto": "gorra",
+    "inventarioProducto": 17,
+    "precioProducto": "10899"
+  }
+]
