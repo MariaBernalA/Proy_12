@@ -10,7 +10,7 @@ const main = async() =>{
     console.log('::: PROYECTO TIENDA  :::'.bgGreen);
     console.log(':::::::::::::::::::::::\n'.bgGreen);
     
-    class Producto {
+    class Producto {//clase producto
         #codigoProducto;
         #nombreProducto;
         #inventarioProducto;
@@ -58,7 +58,7 @@ const main = async() =>{
 
 
 
-     class ProductosTienda{
+     class ProductosTienda{//clase productostienda
      #listaProductos;
 
      constructor(){
